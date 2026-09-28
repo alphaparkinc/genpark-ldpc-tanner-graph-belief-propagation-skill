@@ -1,0 +1,6 @@
+name: genpark-ldpc-tanner-graph-belief-propagation-skill
+version: 1.0.0
+description: Low-Density Parity-Check (LDPC) Tanner graph belief propagation decoder with sum-product LLR message passing
+command: python
+args:
+  - mcp_server.py
