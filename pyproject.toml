@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-ldpc-tanner-graph-belief-propagation-skill"
+version = "1.0.0"
+description = "Low-Density Parity-Check (LDPC) Tanner graph belief propagation decoder with sum-product LLR message passing"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
